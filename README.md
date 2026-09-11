@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🌿 Foredi Nusantara
 
-<!--
-**foredinusantara/foredinusantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Foredi Original — Solusi Keharmonisan Pasangan Suami Istri**
 
-Here are some ideas to get you started:
+Foredi Nusantara menyediakan **Foredi Original**, produk herbal luar khusus pria dengan mengutamakan keaslian produk, kemudahan pemesanan, dan privasi pelanggan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Foredi Original
+
+- ✅ Produk Original
+- ✅ POM TR 132 673 781
+- 🚚 Pengiriman cepat via J&T
+- 🔒 Paket tertutup & privasi terjamin
+- 🇮🇩 Melayani pengiriman ke seluruh Indonesia
+
+### 📱 Informasi & Pemesanan
+
+**WhatsApp:** 0858-0448-1513  
+**Website:** https://foredinusantara.pages.dev/
+
+---
+
+**Foredi Nusantara**  
+*Original • BPOM • Pengiriman Cepat • Privasi Terjamin*
